@@ -63,24 +63,32 @@ We get, CF = (1.59*103*10-7) / 15.9*103
  
 **INTEGRATOR:**
   **CIRCUIT DIAGRAM**
+<img width="1600" height="945" alt="image" src="https://github.com/user-attachments/assets/6155cc62-edc7-4667-8019-b43b85f58133" />
 
 
   **MODEL GRAPH:**
+<img width="1600" height="857" alt="image" src="https://github.com/user-attachments/assets/7e614461-38b5-4928-aa10-2d84c17ffdea" />
+<img width="1600" height="1067" alt="image" src="https://github.com/user-attachments/assets/89c59778-848a-4965-a6bd-849febc2f174" />
 
 
   **TABULATION:**
- 
+ <img width="1600" height="664" alt="image" src="https://github.com/user-attachments/assets/b7febf44-094f-4bed-803b-e59607cbbd82" />
+
 
 **MODEL CALCULATION:**
+<img width="1600" height="1409" alt="WhatsApp Image 2026-09-13 at 8 25 49 PM" src="https://github.com/user-attachments/assets/3030dddd-4239-4cd4-9f89-2538e5d26aad" />
 
 **DIFFERENTIATOR:**
   **CIRCUIT DIAGRAM**
+<img width="1359" height="1600" alt="image" src="https://github.com/user-attachments/assets/b387e885-3e33-4f8e-b62d-fa187ccb96f0" />
 
 
   **MODEL GRAPH:**
+<img width="1600" height="669" alt="image" src="https://github.com/user-attachments/assets/6c2dcb0d-e653-402b-a31e-bd79d765466d" />
 
 
   **TABULATION:**
+<img width="1600" height="1113" alt="image" src="https://github.com/user-attachments/assets/13fd0124-d5fb-43d1-b2b3-6694dd3d4dc3" />
 
  
 
@@ -95,7 +103,13 @@ We get, CF = (1.59*103*10-7) / 15.9*103
  
   **LT SPICE**
   **CIRCUIT and Waveform**
-  
+  <img width="1600" height="850" alt="image" src="https://github.com/user-attachments/assets/eb07bbcd-3349-4396-99e4-aab40033e836" />
+<img width="1600" height="850" alt="image" src="https://github.com/user-attachments/assets/efaf9e02-9079-491c-9760-8b851ef59b7b" />
+<img width="1600" height="850" alt="image" src="https://github.com/user-attachments/assets/9b94ab66-a1dc-4b80-8cea-cad8297dd0b4" />
+<img width="1600" height="850" alt="image" src="https://github.com/user-attachments/assets/833346d5-3174-4b4a-896b-05515c5c6756" />
+
+
+
 
 **RESULT:**
 Thus the Integrator and Differentiator are designed and simulated performance was successfully tested using op-amp IC 741 and LT SPICE.
